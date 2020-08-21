@@ -1,4 +1,4 @@
-# Machine Learning Challenge - Exoplanets
+# Exoplanets Exploration
 
 <img src="Images/exoplanets.jpg" style="zoom:50%;" />
 
